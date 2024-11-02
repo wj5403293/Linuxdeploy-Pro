@@ -318,7 +318,10 @@
         <item>jammy</item>
         <item>kinetic</item>
         <item>lunar</item>
-        <item>devel</item>
+        <item>mantic</item>
+        <item>noble</item>
+        <item>oracular</item>
+        
     </string-array>
     <string-array name="ubuntu_arch_values" translatable="false">
         <item>armel</item> <!-- precise only -->
